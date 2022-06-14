@@ -1,2 +1,2 @@
-import Dumpp
-Dumpp._login()
+import dz
+dz._login()
